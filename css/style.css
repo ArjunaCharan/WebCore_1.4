@@ -19,6 +19,7 @@ body {
 
 .left-menu {
     width: 320px;
+    min-height: 780px;
     box-shadow: 
         16px 0 52px 0 rgba(14, 24, 80, 0.2),
         -2px 0 4px 0 rgba(69, 79, 126, 0.02);
