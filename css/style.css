@@ -78,6 +78,7 @@ body {
 }
 
 .main-menu ul li button:hover {
+    transition-duration: 1s;
     background-color: #a9eaff73;   
     box-shadow: inset 0 0 19px 17 #ffffff;
 }
